@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144316019-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144316019-1');
+</script>
       <title>Worldwide Lounges</title>
       <!-- Meta tag Keywords -->
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -130,6 +139,15 @@
                   <h5 class="card-header">Al Ghazal Lounge</h5>
                   <div class="card-body">
                      <h5 class="card-title">Terminal 2</h5>
+                     <!-- <a href="#" class="btn btn-danger">Book</a> -->
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="card">
+                  <h5 class="card-header">Diamond Lounge</h5>
+                  <div class="card-body">
+                     <h5 class="card-title">VIP Terminal</h5>
                      <!-- <a href="#" class="btn btn-danger">Book</a> -->
                   </div>
                </div>
