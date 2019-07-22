@@ -115,7 +115,6 @@
 <option value="lgw.php">London Gatwick Airport</option>
 <option value="lhr.php">London Heathrow Airport</option>
 <option value="stn.php">London Stansted Airport</option>
-
 <option value="lcg.php">A Coruña Airport</option>
 <option value="aal.php">Aalborg Airport</option>
 <option value="aba.php">Abakan International Airport</option>
@@ -134,10 +133,28 @@
 <option value="agu.php">Aguascalientes Jesus Teran Peredo International Airport</option>
 <option value="ahb.php">Abha Regional Airport</option>
 <option value="akl.php">Auckland International Airport</option>
-
+<option value="ala.php">Almaty International Airport</option>
+<option value="alc.php">Alicante Airport</option>
+<option value="amd.php">Ahmedabad SVBP International Airport</option>
+<option value="lop.php">Lombok International Airport</option>
+<option value="amm.php">Amman Queen Alia International Airport</option>
+<option value="ams.php">Amsterdam Schiphol Airport</option>
+<option value="esb.php">Ankara Esenboga Airport</option> 
+<option value="anf.php">Antofagasta Cerro Moreno Airport</option>
+<option value="kvk.php">Apatity Khibiny Airport</option>
+<option value="anu.php">St. Georges V. C. Bird International Airport</option>
+<option value="aqp.php">Arequipa Rodriguez Ballon International Airport</option>
+<option value="arh.php">Arkhangelsk Talagi Airport</option>
+<option value="arn.php">Stockholm Arlanda Airport</option>
+<option value="asu.php">Asuncion Silvio Pettirossi Airport</option>
+<option value="ata.php">Anta German Arias Graziani Airport</option>
+<option value="ath.php">Athens International Airport</option>
+<option value="atl.php">Atlanta GA International Airport</option>
+<option value="aua.php">Oranjestad Reina Beatrix International Airport</option>
+<option value="axm.php">Armenia El Eden International Airport</option>
+<option value="azs.php">Samana El Catey International Airport</option>
 <option value="bah.php">Bahrain International Airport</option>
 <option value="gyd.php">Baku Heydar Aliyev International Airport</option>
-
     </select>
 </form>
         </p>
